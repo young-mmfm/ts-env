@@ -1,0 +1,2 @@
+- Always adhere to the style in style.md
+- Adhere to the style from the rest of the code in the codebase

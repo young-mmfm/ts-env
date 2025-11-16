@@ -7,3 +7,5 @@ dist/
 # IDE
 .vscode/
 .idea/
+
+src/*

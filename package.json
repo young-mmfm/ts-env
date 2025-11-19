@@ -7,8 +7,8 @@
   "scripts": {
     "build": "tsc",
     "typecheck": "tsc --noEmit",
-    "cli": "pnpm build && node",
-    "test": "node --import tsx --test src/**/*.test.ts"
+    "cli": "tsx",
+    "test": "tsx --test src/**/*.test.ts"
   },
   "keywords": [],
   "author": "",
